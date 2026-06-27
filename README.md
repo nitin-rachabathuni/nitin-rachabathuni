@@ -52,22 +52,22 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="36" alt="AI"/><br/>
+<h3>🤖</h3>
 <b>Agentic AI</b><br/>
 <sub>LangGraph · MCP · n8n · 1,600+ Cursor skills</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/shopping-cart.png" width="36" alt="Commerce"/><br/>
+<h3>🛒</h3>
 <b>Headless Commerce</b><br/>
 <sub>10k+ SKUs · commercetools · Algolia · Riskified</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/bank-card-back-side.png" width="36" alt="FinTech"/><br/>
+<h3>💳</h3>
 <b>FinTech</b><br/>
 <sub>Plaid · Auth0 · Marqeta · ISO referral flows</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/cloud.png" width="36" alt="Cloud"/><br/>
+<h3>☁️</h3>
 <b>Enterprise</b><br/>
 <sub>Adobe EXL · 15+ PRs · Coveo · AEM Edge</sub>
 </td>
