@@ -80,38 +80,38 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 </tr>
 <tr>
 <td valign="top">
-<img width="22" src="https://api.iconify.design/simple-icons/openai.svg" height="22" alt="OpenAI"/> <img width="22" src="https://api.iconify.design/simple-icons/langchain.svg" height="22" alt="LangChain"/> <img width="22" src="https://api.iconify.design/simple-icons/n8n.svg" height="22" alt="n8n"/><br/><b>Agentic AI</b>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=44" width="22" height="22" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=22" width="22" height="22" alt="LangChain"/> <img src="https://cdn.simpleicons.org/n8n?viewbox=auto&size=22" width="22" height="22" alt="n8n"/><br/><b>Agentic AI</b>
 </td>
 <td valign="top">WhatsApp order agents · document automation · **1,600+** Cursor skills · n8n ops pipelines</td>
 <td valign="top">
-<img width="18" src="https://api.iconify.design/simple-icons/langchain.svg" height="18" alt="LangChain"/> <img width="18" src="https://api.iconify.design/simple-icons/openai.svg" height="18" alt="OpenAI"/> <img width="18" src="https://api.iconify.design/simple-icons/n8n.svg" height="18" alt="n8n"/> <img src="https://img.shields.io/badge/-?logo=groq&logoColor=white&color=F55036" height="18" alt="Groq"/>
+<img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=18" width="18" height="18" alt="LangChain"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=36" width="18" height="18" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/n8n?viewbox=auto&size=18" width="18" height="18" alt="n8n"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://groq.com&size=36" width="18" height="18" alt="Groq"/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="22" alt="commercetools"/> <img width="22" src="https://api.iconify.design/simple-icons/algolia.svg" height="22" alt="Algolia"/><br/><b>Headless commerce</b>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=44" width="22" height="22" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia?viewbox=auto&size=22" width="22" height="22" alt="Algolia"/><br/><b>Headless commerce</b>
 </td>
 <td valign="top"><b>10,000+</b> SKUs · multi-gateway checkout · ~<b>99.9%</b> uptime · END. · KWH · GENIUS</td>
 <td valign="top">
-<img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="18" alt="commercetools"/> <img width="18" src="https://api.iconify.design/simple-icons/algolia.svg" height="18" alt="Algolia"/> <img width="18" src="https://api.iconify.design/simple-icons/stripe.svg" height="18" alt="Stripe"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=36" width="18" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia?viewbox=auto&size=18" width="18" height="18" alt="Algolia"/> <img src="https://cdn.simpleicons.org/stripe?viewbox=auto&size=18" width="18" height="18" alt="Stripe"/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/badge/-?logo=plaid&logoColor=white&color=000000" height="22" alt="Plaid"/> <img width="22" src="https://api.iconify.design/simple-icons/auth0.svg" height="22" alt="Auth0"/><br/><b>FinTech</b>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=44" width="22" height="22" alt="Plaid"/> <img src="https://cdn.simpleicons.org/auth0?viewbox=auto&size=22" width="22" height="22" alt="Auth0"/><br/><b>FinTech</b>
 </td>
 <td valign="top">Plaid bank link · Auth0 portals · Marqeta cards · ISO referral commissions</td>
 <td valign="top">
-<img src="https://img.shields.io/badge/-?logo=plaid&logoColor=white&color=000000" height="18" alt="Plaid"/> <img width="18" src="https://api.iconify.design/simple-icons/auth0.svg" height="18" alt="Auth0"/> <img width="18" src="https://api.iconify.design/simple-icons/hubspot.svg" height="18" alt="HubSpot"/> <img width="18" src="https://api.iconify.design/simple-icons/datadog.svg" height="18" alt="Datadog"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=36" width="18" height="18" alt="Plaid"/> <img src="https://cdn.simpleicons.org/auth0?viewbox=auto&size=18" width="18" height="18" alt="Auth0"/> <img src="https://cdn.simpleicons.org/hubspot?viewbox=auto&size=18" width="18" height="18" alt="HubSpot"/> <img src="https://cdn.simpleicons.org/datadog?viewbox=auto&size=18" width="18" height="18" alt="Datadog"/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img width="22" src="https://api.iconify.design/simple-icons/adobe.svg" height="22" alt="Adobe"/> <img width="22" src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="22" alt="Azure"/><br/><b>Enterprise & OTT</b>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adobe.com&size=44" width="22" height="22" alt="Adobe"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=44" width="22" height="22" alt="Azure"/><br/><b>Enterprise & OTT</b>
 </td>
 <td valign="top"><b>15+</b> Adobe EXL PRs · <b>119+</b> national KPIs · <b>15.5M+</b> OTT subs · 30+ markets</td>
 <td valign="top">
-<img width="18" src="https://api.iconify.design/simple-icons/adobe.svg" height="18" alt="Adobe"/> <img width="18" src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="18" alt="Azure"/> <img width="18" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="18" alt="Next.js"/> <img width="18" src="https://api.iconify.design/simple-icons/firebase.svg" height="18" alt="Firebase"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adobe.com&size=36" width="18" height="18" alt="Adobe"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=36" width="18" height="18" alt="Azure"/> <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=18" width="18" height="18" alt="Next.js"/> <img src="https://cdn.simpleicons.org/firebase?viewbox=auto&size=18" width="18" height="18" alt="Firebase"/>
 </td>
 </tr>
 </table>
@@ -123,7 +123,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 *Problem → approach → measurable outcome. Full write-ups on the [portfolio](https://www.nitin-rachabathuni.com).*
 
 <details open>
-<summary><img width="18" src="https://api.iconify.design/simple-icons/whatsapp.svg" height="18" alt="WhatsApp"/> <img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="18" alt="commercetools"/> <b>Rich Cookies — conversational commerce without leaving WhatsApp</b></summary>
+<summary><img src="https://cdn.simpleicons.org/whatsapp?viewbox=auto&size=18" width="18" height="18" alt="WhatsApp"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=36" width="18" height="18" alt="commercetools"/> <b>Rich Cookies — conversational commerce without leaving WhatsApp</b></summary>
 <br/>
 
 | | |
@@ -138,12 +138,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | Commerce | commercetools B2B + B2C · multi-tenant |
 | Agents | LangGraph.js · LangChain · MCP tool routing |
 
-**Stack:** <img width="16" src="https://api.iconify.design/simple-icons/langchain.svg" height="16" alt="LangChain"/> <img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="16" alt="commercetools"/> <img width="16" src="https://api.iconify.design/simple-icons/whatsapp.svg" height="16" alt="WhatsApp"/> <img width="16" src="https://api.iconify.design/simple-icons/nodedotjs.svg" height="16" alt="Node.js"/> <img width="16" src="https://api.iconify.design/simple-icons/n8n.svg" height="16" alt="n8n"/> <img width="16" src="https://api.iconify.design/simple-icons/datadog.svg" height="16" alt="Datadog"/> [**case study →**](https://www.nitin-rachabathuni.com/project/richcookies)
+**Stack:** <img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=16" width="16" height="16" alt="LangChain"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=32" width="16" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/whatsapp?viewbox=auto&size=16" width="16" height="16" alt="WhatsApp"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933/FFFFFF?viewbox=auto&size=16" width="16" height="16" alt="Node.js"/> <img src="https://cdn.simpleicons.org/n8n?viewbox=auto&size=16" width="16" height="16" alt="n8n"/> <img src="https://cdn.simpleicons.org/datadog?viewbox=auto&size=16" width="16" height="16" alt="Datadog"/> [**case study →**](https://www.nitin-rachabathuni.com/project/richcookies)
 
 </details>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/-?logo=plaid&logoColor=white&color=000000" height="18" alt="Plaid"/> <img width="18" src="https://api.iconify.design/simple-icons/auth0.svg" height="18" alt="Auth0"/> <b>Revenued — embedded financing from bank link to card issuance</b></summary>
+<summary><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=36" width="18" height="18" alt="Plaid"/> <img src="https://cdn.simpleicons.org/auth0?viewbox=auto&size=18" width="18" height="18" alt="Auth0"/> <b>Revenued — embedded financing from bank link to card issuance</b></summary>
 <br/>
 
 | | |
@@ -158,12 +158,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | Portal | Auth0 sessions · merchant draw/repay flows |
 | Partners | ISO referral commission dashboards |
 
-**Stack:** <img width="16" src="https://api.iconify.design/simple-icons/angular.svg" height="16" alt="Angular"/> <img src="https://img.shields.io/badge/-?logo=plaid&logoColor=white&color=000000" height="16" alt="Plaid"/> <img width="16" src="https://api.iconify.design/simple-icons/auth0.svg" height="16" alt="Auth0"/> <img width="16" src="https://api.iconify.design/simple-icons/hubspot.svg" height="16" alt="HubSpot"/> [**case study →**](https://www.nitin-rachabathuni.com/project/revenued)
+**Stack:** <img src="https://cdn.simpleicons.org/angular?viewbox=auto&size=16" width="16" height="16" alt="Angular"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=32" width="16" height="16" alt="Plaid"/> <img src="https://cdn.simpleicons.org/auth0?viewbox=auto&size=16" width="16" height="16" alt="Auth0"/> <img src="https://cdn.simpleicons.org/hubspot?viewbox=auto&size=16" width="16" height="16" alt="HubSpot"/> [**case study →**](https://www.nitin-rachabathuni.com/project/revenued)
 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="18" alt="commercetools"/> <img width="18" src="https://api.iconify.design/simple-icons/algolia.svg" height="18" alt="Algolia"/> <b>Kitchen Warehouse — 10,000+ SKUs, fraud-aware checkout at scale</b></summary>
+<summary><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=36" width="18" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia?viewbox=auto&size=18" width="18" height="18" alt="Algolia"/> <b>Kitchen Warehouse — 10,000+ SKUs, fraud-aware checkout at scale</b></summary>
 <br/>
 
 | | |
@@ -177,12 +177,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | Catalog | **10,000+ SKUs** · complex Algolia rules |
 | Identity | **Kinde** OAuth → commercetools customer bridge |
 
-**Stack:** <img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="16" alt="commercetools"/> <img width="16" src="https://api.iconify.design/simple-icons/algolia.svg" height="16" alt="Algolia"/> [**case study →**](https://www.nitin-rachabathuni.com/project/kwh)
+**Stack:** <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=32" width="16" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia?viewbox=auto&size=16" width="16" height="16" alt="Algolia"/> [**case study →**](https://www.nitin-rachabathuni.com/project/kwh)
 
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="18" alt="commercetools"/> <img width="18" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="18" alt="Next.js"/> <b>END. Clothing — premium streetwear, headless under peak drop traffic</b></summary>
+<summary><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=36" width="18" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=18" width="18" height="18" alt="Next.js"/> <b>END. Clothing — premium streetwear, headless under peak drop traffic</b></summary>
 <br/>
 
 | | |
@@ -191,12 +191,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | **Approach** | Headless storefront · performant PDP/PLP · commerce integrations tuned for spikes |
 | **Outcome** | Premium UX that holds up when hype drops hit |
 
-**Stack:** <img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="16" alt="commercetools"/> <img width="16" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="16" alt="Next.js"/> <img width="16" src="https://api.iconify.design/simple-icons/algolia.svg" height="16" alt="Algolia"/> [**portfolio →**](https://www.nitin-rachabathuni.com)
+**Stack:** <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=32" width="16" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=16" width="16" height="16" alt="Next.js"/> <img src="https://cdn.simpleicons.org/algolia?viewbox=auto&size=16" width="16" height="16" alt="Algolia"/> [**portfolio →**](https://www.nitin-rachabathuni.com)
 
 </details>
 
 <details>
-<summary><img width="18" src="https://api.iconify.design/simple-icons/adobe.svg" height="18" alt="Adobe"/> <b>Adobe Experience League · 15+ upstream PRs on Edge Delivery</b></summary>
+<summary><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adobe.com&size=36" width="18" height="18" alt="Adobe"/> <b>Adobe Experience League · 15+ upstream PRs on Edge Delivery</b></summary>
 <br/>
 
 | | |
@@ -210,12 +210,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | Edge Delivery | **15+ PRs** to adobe-experience-league/exlm |
 | Search | Coveo Atomic/Headless |
 
-**Stack:** <img width="16" src="https://api.iconify.design/simple-icons/adobe.svg" height="16" alt="Adobe"/> [**case study →**](https://www.nitin-rachabathuni.com/project/experienceleague)
+**Stack:** <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adobe.com&size=32" width="16" height="16" alt="Adobe"/> [**case study →**](https://www.nitin-rachabathuni.com/project/experienceleague)
 
 </details>
 
 <details>
-<summary><img width="18" src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="18" alt="Azure"/> <b>Qinsights Qatar — 119+ national KPIs on Azure</b></summary>
+<summary><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=36" width="18" height="18" alt="Azure"/> <b>Qinsights Qatar — 119+ national KPIs on Azure</b></summary>
 <br/>
 
 | | |
@@ -224,12 +224,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | **Approach** | Azure-backed data platform · role-aware dashboards · export-friendly reporting |
 | **Outcome** | **119+ KPIs** surfaced for policy and operational decisions |
 
-**Stack:** <img width="16" src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="16" alt="Azure"/> <img width="16" src="https://api.iconify.design/simple-icons/react.svg" height="16" alt="React"/> <img width="16" src="https://api.iconify.design/simple-icons/nodedotjs.svg" height="16" alt="Node.js"/> [**case study →**](https://www.nitin-rachabathuni.com/project/qinsights)
+**Stack:** <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=32" width="16" height="16" alt="Azure"/> <img src="https://cdn.simpleicons.org/react?viewbox=auto&size=16" width="16" height="16" alt="React"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933/FFFFFF?viewbox=auto&size=16" width="16" height="16" alt="Node.js"/> [**case study →**](https://www.nitin-rachabathuni.com/project/qinsights)
 
 </details>
 
 <details>
-<summary><img width="18" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="18" alt="Next.js"/> <img width="18" src="https://api.iconify.design/simple-icons/firebase.svg" height="18" alt="Firebase"/> <b>Viu OTT — 15.5M+ subscribers across 30+ markets</b></summary>
+<summary><img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=18" width="18" height="18" alt="Next.js"/> <img src="https://cdn.simpleicons.org/firebase?viewbox=auto&size=18" width="18" height="18" alt="Firebase"/> <b>Viu OTT — 15.5M+ subscribers across 30+ markets</b></summary>
 <br/>
 
 | | |
@@ -238,7 +238,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | **Approach** | Bitmovin · adaptive bitrate · CDN tuning · Next.js frontends · Firebase auth |
 | **Outcome** | **15.5M+** subscribers · ad + subscription models · 30+ markets |
 
-**Stack:** <img width="16" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="16" alt="Next.js"/> <img width="16" src="https://api.iconify.design/simple-icons/firebase.svg" height="16" alt="Firebase"/>
+**Stack:** <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=16" width="16" height="16" alt="Next.js"/> <img src="https://cdn.simpleicons.org/firebase?viewbox=auto&size=16" width="16" height="16" alt="Firebase"/>
 
 </details>
 
@@ -255,27 +255,27 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 <th align="left">Why it matters</th>
 </tr>
 <tr>
-<td valign="top"><img width="20" src="https://api.iconify.design/simple-icons/adobe.svg" height="20" alt="Adobe"/> <a href="https://github.com/adobe-experience-league/exlm"><b>Adobe Experience League</b></a></td>
+<td valign="top"><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adobe.com&size=40" width="20" height="20" alt="Adobe"/> <a href="https://github.com/adobe-experience-league/exlm"><b>Adobe Experience League</b></a></td>
 <td valign="top"><b>15+ merged PRs</b> — Coveo, AEM Edge, analytics, converter pipeline</td>
 <td valign="top">Docs at Adobe scale — search + edge delivery for millions of learners</td>
 </tr>
 <tr>
-<td valign="top"><img width="20" src="https://api.iconify.design/simple-icons/storybook.svg" height="20" alt="Storybook"/> <a href="https://github.com/storybookjs/storybook"><b>Storybook</b></a></td>
+<td valign="top"><img src="https://cdn.simpleicons.org/storybook?viewbox=auto&size=20" width="20" height="20" alt="Storybook"/> <a href="https://github.com/storybookjs/storybook"><b>Storybook</b></a></td>
 <td valign="top">Upstream contributor — component workshop, docs, DX</td>
 <td valign="top">Design systems I ship in commerce & enterprise depend on it</td>
 </tr>
 <tr>
-<td valign="top"><img width="20" src="https://api.iconify.design/simple-icons/loom.svg" height="20" alt="Cap"/> <a href="https://github.com/CapSoftware/Cap"><b>Cap</b></a></td>
+<td valign="top"><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://cap.so&size=40" width="20" height="20" alt="Cap"/> <a href="https://github.com/CapSoftware/Cap"><b>Cap</b></a></td>
 <td valign="top">OSS screen recording — merged contributions</td>
 <td valign="top">Open Loom alternative; async eng culture tooling</td>
 </tr>
 <tr>
-<td valign="top"><img width="20" src="https://api.iconify.design/simple-icons/openai.svg" height="20" alt="MCP"/> <a href="https://github.com/archestra-ai/archestra"><b>Archestra AI</b></a></td>
+<td valign="top"><img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=40" width="20" height="20" alt="OpenAI"/> <a href="https://github.com/archestra-ai/archestra"><b>Archestra AI</b></a></td>
 <td valign="top">Enterprise MCP registry — upstream contributor</td>
 <td valign="top">Agent tool governance for teams shipping MCP in prod</td>
 </tr>
 <tr>
-<td valign="top"><img width="20" src="https://api.iconify.design/simple-icons/typescript.svg" height="20" alt="TypeScript"/> <a href="https://github.com/tscircuit/tscircuit"><b>tscircuit</b></a></td>
+<td valign="top"><img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=20" width="20" height="20" alt="TypeScript"/> <a href="https://github.com/tscircuit/tscircuit"><b>tscircuit</b></a></td>
 <td valign="top">TypeScript + React PCB tooling — contributor</td>
 <td valign="top">Hardware-adjacent OSS; parametric design parallels my CAD work</td>
 </tr>
@@ -293,12 +293,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ### Agentic & automation
 <p>
-<img width="28" src="https://api.iconify.design/simple-icons/langchain.svg" height="28" alt="LangChain"/>
-<img width="28" src="https://api.iconify.design/simple-icons/openai.svg" height="28" alt="OpenAI"/>
-<img width="28" src="https://api.iconify.design/simple-icons/n8n.svg" height="28" alt="n8n"/>
-<img src="https://img.shields.io/badge/-?logo=groq&logoColor=white&color=F55036" height="28" alt="Groq"/>
-<img width="28" src="https://api.iconify.design/simple-icons/ollama.svg" height="28" alt="Ollama"/>
-<img width="28" src="https://api.iconify.design/simple-icons/playwright.svg" height="28" alt="Playwright"/>
+<img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=28" width="28" height="28" alt="LangChain"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=56" width="28" height="28" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/n8n?viewbox=auto&size=28" width="28" height="28" alt="n8n"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://groq.com&size=56" width="28" height="28" alt="Groq"/>
+<img src="https://cdn.simpleicons.org/ollama?viewbox=auto&size=28" width="28" height="28" alt="Ollama"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playwright.dev&size=56" width="28" height="28" alt="Playwright"/>
 </p>
 
 | Layer | Production use |
@@ -315,15 +315,15 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ### Commerce & experience
 <p>
-<img width="28" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="28" alt="Next.js"/>
-<img width="28" src="https://api.iconify.design/simple-icons/react.svg" height="28" alt="React"/>
-<img width="28" src="https://api.iconify.design/simple-icons/typescript.svg" height="28" alt="TypeScript"/>
-<img width="28" src="https://api.iconify.design/simple-icons/tailwindcss.svg" height="28" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="28" alt="commercetools"/>
-<img width="28" src="https://api.iconify.design/simple-icons/shopify.svg" height="28" alt="Shopify"/>
-<img width="28" src="https://api.iconify.design/simple-icons/algolia.svg" height="28" alt="Algolia"/>
-<img width="28" src="https://api.iconify.design/simple-icons/contentful.svg" height="28" alt="Contentful"/>
-<img width="28" src="https://api.iconify.design/simple-icons/storybook.svg" height="28" alt="Storybook"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=28" width="28" height="28" alt="Next.js"/>
+<img src="https://cdn.simpleicons.org/react?viewbox=auto&size=28" width="28" height="28" alt="React"/>
+<img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=28" width="28" height="28" alt="TypeScript"/>
+<img src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto&size=28" width="28" height="28" alt="Tailwind"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=56" width="28" height="28" alt="commercetools"/>
+<img src="https://cdn.simpleicons.org/shopify?viewbox=auto&size=28" width="28" height="28" alt="Shopify"/>
+<img src="https://cdn.simpleicons.org/algolia?viewbox=auto&size=28" width="28" height="28" alt="Algolia"/>
+<img src="https://cdn.simpleicons.org/contentful?viewbox=auto&size=28" width="28" height="28" alt="Contentful"/>
+<img src="https://cdn.simpleicons.org/storybook?viewbox=auto&size=28" width="28" height="28" alt="Storybook"/>
 </p>
 
 | Layer | Production use |
@@ -342,12 +342,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ### FinTech & trust
 <p>
-<img src="https://img.shields.io/badge/-?logo=plaid&logoColor=white&color=000000" height="28" alt="Plaid"/>
-<img width="28" src="https://api.iconify.design/simple-icons/auth0.svg" height="28" alt="Auth0"/>
-<img width="28" src="https://api.iconify.design/simple-icons/stripe.svg" height="28" alt="Stripe"/>
-<img width="28" src="https://api.iconify.design/simple-icons/adyen.svg" height="28" alt="Adyen"/>
-<img width="28" src="https://api.iconify.design/simple-icons/paypal.svg" height="28" alt="PayPal"/>
-<img width="28" src="https://api.iconify.design/simple-icons/applepay.svg" height="28" alt="Apple Pay"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=56" width="28" height="28" alt="Plaid"/>
+<img src="https://cdn.simpleicons.org/auth0?viewbox=auto&size=28" width="28" height="28" alt="Auth0"/>
+<img src="https://cdn.simpleicons.org/stripe?viewbox=auto&size=28" width="28" height="28" alt="Stripe"/>
+<img src="https://cdn.simpleicons.org/adyen?viewbox=auto&size=28" width="28" height="28" alt="Adyen"/>
+<img src="https://cdn.simpleicons.org/paypal?viewbox=auto&size=28" width="28" height="28" alt="PayPal"/>
+<img src="https://cdn.simpleicons.org/applepay?viewbox=auto&size=28" width="28" height="28" alt="Apple Pay"/>
 </p>
 
 | Layer | Production use |
@@ -364,16 +364,16 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ### Platform & observability
 <p>
-<img width="28" src="https://api.iconify.design/simple-icons/nodedotjs.svg" height="28" alt="Node.js"/>
-<img width="28" src="https://api.iconify.design/simple-icons/python.svg" height="28" alt="Python"/>
-<img width="28" src="https://api.iconify.design/simple-icons/graphql.svg" height="28" alt="GraphQL"/>
-<img width="28" src="https://api.iconify.design/simple-icons/microsoftazure.svg" height="28" alt="Azure"/>
-<img width="28" src="https://api.iconify.design/simple-icons/amazonaws.svg" height="28" alt="AWS"/>
-<img width="28" src="https://api.iconify.design/simple-icons/vercel.svg" height="28" alt="Vercel"/>
-<img width="28" src="https://api.iconify.design/simple-icons/cloudflare.svg" height="28" alt="Cloudflare"/>
-<img width="28" src="https://api.iconify.design/simple-icons/datadog.svg" height="28" alt="Datadog"/>
-<img width="28" src="https://api.iconify.design/simple-icons/docker.svg" height="28" alt="Docker"/>
-<img width="28" src="https://api.iconify.design/simple-icons/githubactions.svg" height="28" alt="GitHub Actions"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933/FFFFFF?viewbox=auto&size=28" width="28" height="28" alt="Node.js"/>
+<img src="https://cdn.simpleicons.org/python?viewbox=auto&size=28" width="28" height="28" alt="Python"/>
+<img src="https://cdn.simpleicons.org/graphql?viewbox=auto&size=28" width="28" height="28" alt="GraphQL"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=56" width="28" height="28" alt="Azure"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aws.amazon.com&size=56" width="28" height="28" alt="AWS"/>
+<img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF?viewbox=auto&size=28" width="28" height="28" alt="Vercel"/>
+<img src="https://cdn.simpleicons.org/cloudflare?viewbox=auto&size=28" width="28" height="28" alt="Cloudflare"/>
+<img src="https://cdn.simpleicons.org/datadog?viewbox=auto&size=28" width="28" height="28" alt="Datadog"/>
+<img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=28" width="28" height="28" alt="Docker"/>
+<img src="https://cdn.simpleicons.org/githubactions?viewbox=auto&size=28" width="28" height="28" alt="GitHub Actions"/>
 </p>
 
 | Layer | Production use |
@@ -390,16 +390,16 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white&labelColor=0d1117" alt="Plaid"/>
-<img src="https://img.shields.io/badge/commercetools-FFC107?style=for-the-badge&logo=commercetools&logoColor=black&labelColor=0d1117" alt="commercetools"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" alt="Azure"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=0d1117" alt="Datadog"/>
+<img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=28" width="28" height="28" alt="TypeScript"/>
+<img src="https://cdn.simpleicons.org/react?viewbox=auto&size=28" width="28" height="28" alt="React"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=28" width="28" height="28" alt="Next.js"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933/FFFFFF?viewbox=auto&size=28" width="28" height="28" alt="Node.js"/>
+<img src="https://cdn.simpleicons.org/python?viewbox=auto&size=28" width="28" height="28" alt="Python"/>
+<img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=28" width="28" height="28" alt="LangChain"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=56" width="28" height="28" alt="Plaid"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=56" width="28" height="28" alt="commercetools"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://azure.microsoft.com&size=56" width="28" height="28" alt="Azure"/>
+<img src="https://cdn.simpleicons.org/datadog?viewbox=auto&size=28" width="28" height="28" alt="Datadog"/>
 </p>
 
 <details>
@@ -443,7 +443,7 @@ Parametric Vastu floor plans · 3D dollhouse · Blender pipeline — CAD-adjacen
 </td>
 <td valign="top">
 
-<img width="22" src="https://api.iconify.design/simple-icons/python.svg" height="22" alt="Python"/> <img width="22" src="https://api.iconify.design/simple-icons/typescript.svg" height="22" alt="TypeScript"/> <img width="22" src="https://api.iconify.design/simple-icons/blender.svg" height="22" alt="Blender"/>
+<img src="https://cdn.simpleicons.org/python?viewbox=auto&size=22" width="22" height="22" alt="Python"/> <img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=22" width="22" height="22" alt="TypeScript"/> <img src="https://cdn.simpleicons.org/blender?viewbox=auto&size=22" width="22" height="22" alt="Blender"/>
 
 </td>
 </tr>
@@ -461,7 +461,7 @@ LangGraph.js agents with **safe JS execution** — tool use, eval loops, product
 </td>
 <td valign="top">
 
-<img width="22" src="https://api.iconify.design/simple-icons/langchain.svg" height="22" alt="LangChain"/> <img width="22" src="https://api.iconify.design/simple-icons/nodedotjs.svg" height="22" alt="Node.js"/> <img width="22" src="https://api.iconify.design/simple-icons/typescript.svg" height="22" alt="TypeScript"/>
+<img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=22" width="22" height="22" alt="LangChain"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933/FFFFFF?viewbox=auto&size=22" width="22" height="22" alt="Node.js"/> <img src="https://cdn.simpleicons.org/typescript?viewbox=auto&size=22" width="22" height="22" alt="TypeScript"/>
 
 </td>
 </tr>
@@ -479,7 +479,7 @@ Blog auto-publish · job-hunt pipelines · client PoCs — agents wired to real 
 </td>
 <td valign="top">
 
-<img width="22" src="https://api.iconify.design/simple-icons/n8n.svg" height="22" alt="n8n"/> <img width="22" src="https://api.iconify.design/simple-icons/ollama.svg" height="22" alt="Ollama"/> <img width="22" src="https://api.iconify.design/simple-icons/openai.svg" height="22" alt="OpenAI"/> <img src="https://img.shields.io/badge/-?logo=groq&logoColor=white&color=F55036" height="22" alt="Groq"/>
+<img src="https://cdn.simpleicons.org/n8n?viewbox=auto&size=22" width="22" height="22" alt="n8n"/> <img src="https://cdn.simpleicons.org/ollama?viewbox=auto&size=22" width="22" height="22" alt="Ollama"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=44" width="22" height="22" alt="OpenAI"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://groq.com&size=44" width="22" height="22" alt="Groq"/>
 
 </td>
 </tr>
@@ -497,7 +497,7 @@ Adobe Experience League Edge Delivery fork — Coveo, AEM, analytics; PRs merge 
 </td>
 <td valign="top">
 
-<img width="22" src="https://api.iconify.design/simple-icons/javascript.svg" height="22" alt="JavaScript"/> <img width="22" src="https://api.iconify.design/simple-icons/adobe.svg" height="22" alt="Adobe"/>
+<img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=22" width="22" height="22" alt="JavaScript"/> <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://adobe.com&size=44" width="22" height="22" alt="Adobe"/>
 
 </td>
 </tr>
@@ -515,7 +515,7 @@ Agentic document automation · personal site with Contentful, **AEO/GEO**, [`llm
 </td>
 <td valign="top">
 
-<img width="22" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="22" alt="Next.js"/> <img width="22" src="https://api.iconify.design/simple-icons/contentful.svg" height="22" alt="Contentful"/> <img width="22" src="https://api.iconify.design/simple-icons/langchain.svg" height="22" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=22" width="22" height="22" alt="Next.js"/> <img src="https://cdn.simpleicons.org/contentful?viewbox=auto&size=22" width="22" height="22" alt="Contentful"/> <img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=22" width="22" height="22" alt="LangChain"/>
 
 </td>
 </tr>
@@ -533,7 +533,7 @@ Skills · rules · MCP orchestration repo — how I scale agent-assisted deliver
 </td>
 <td valign="top">
 
-<img width="22" src="https://api.iconify.design/simple-icons/openai.svg" height="22" alt="MCP"/> <img width="22" src="https://api.iconify.design/simple-icons/n8n.svg" height="22" alt="n8n"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=44" width="22" height="22" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/n8n?viewbox=auto&size=22" width="22" height="22" alt="n8n"/>
 
 </td>
 </tr>
@@ -567,9 +567,9 @@ Skills · rules · MCP orchestration repo — how I scale agent-assisted deliver
 
 | Topic lanes | Where to start |
 |:------------|:---------------|
-| **Agentic AI** | <img width="16" src="https://api.iconify.design/simple-icons/langchain.svg" height="16" alt="LangChain"/> LangGraph · MCP · eval loops · Cursor skills at scale |
-| **Commerce** | <img src="https://img.shields.io/badge/-?logo=commercetools&logoColor=black&color=FFC107" height="16" alt="commercetools"/> Headless · Algolia · fraud · CWV · JSON-LD / AEO |
-| **FinTech** | <img src="https://img.shields.io/badge/-?logo=plaid&logoColor=white&color=000000" height="16" alt="Plaid"/> Plaid · Auth0 · embedded finance · webhook patterns |
+| **Agentic AI** | <img src="https://cdn.simpleicons.org/langchain?viewbox=auto&size=16" width="16" height="16" alt="LangChain"/> LangGraph · MCP · eval loops · Cursor skills at scale |
+| **Commerce** | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://commercetools.com&size=32" width="16" height="16" alt="commercetools"/> Headless · Algolia · fraud · CWV · JSON-LD / AEO |
+| **FinTech** | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plaid.com&size=32" width="16" height="16" alt="Plaid"/> Plaid · Auth0 · embedded finance · webhook patterns |
 
 <p align="center">
 <a href="https://www.nitin-rachabathuni.com/blog"><img src="https://img.shields.io/badge/Read_the_blog-1%2C100%2B_articles-EC4899?style=for-the-badge&logo=rss&logoColor=white&labelColor=0d1117" alt="Blog"/></a>
@@ -602,10 +602,10 @@ Skills · rules · MCP orchestration repo — how I scale agent-assisted deliver
 <br/><br/>
 
 <p>
-<img width="24" src="https://api.iconify.design/simple-icons/nextdotjs.svg" height="24" alt="Next.js"/>
-<img width="24" src="https://api.iconify.design/simple-icons/vercel.svg" height="24" alt="Vercel"/>
-<img width="24" src="https://api.iconify.design/simple-icons/contentful.svg" height="24" alt="Contentful"/>
-<img width="24" src="https://api.iconify.design/simple-icons/openai.svg" height="24" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF?viewbox=auto&size=24" width="24" height="24" alt="Next.js"/>
+<img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF?viewbox=auto&size=24" width="24" height="24" alt="Vercel"/>
+<img src="https://cdn.simpleicons.org/contentful?viewbox=auto&size=24" width="24" height="24" alt="Contentful"/>
+<img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openai.com&size=48" width="24" height="24" alt="OpenAI"/>
 </p>
 
 <br/>
