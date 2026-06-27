@@ -193,49 +193,83 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ---
 
-## 🛠 Tech stack
+## 🛠 Engineering toolkit
+
+*Not a keyword dump — the layers I actually ship in production, and where they've earned their keep.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic & automation
+| Layer | Production use |
+|:------|:---------------|
+| **Orchestration** | LangGraph · LangChain · MCP tool servers |
+| **Models** | OpenAI · Groq · Ollama (private PoCs) |
+| **Automation** | n8n · Playwright eval · Cursor skills (1,600+) |
+| **Patterns** | RAG · agent eval loops · human-in-the-loop handoff |
+
+*Live in:* Rich Cookies order agents · Juiceit.ai · blog/job-hunt automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Commerce & experience
+| Layer | Production use |
+|:------|:---------------|
+| **Frontend** | Next.js 14 · React · TypeScript · Tailwind |
+| **Headless** | commercetools · Shopify · Frontastic · Contentful |
+| **Search** | Algolia (10k+ SKU rule sets) · Coveo Atomic |
+| **Quality** | Storybook · Core Web Vitals · WCAG · JSON-LD |
+
+*Live in:* KWH · END. · GENIUS Shop · Adobe Experience League
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 FinTech & trust
+| Layer | Production use |
+|:------|:---------------|
+| **Banking** | Plaid Auth · Identity · IDV · webhooks |
+| **Identity** | Auth0 · Kinde → commercetools bridge |
+| **Payments** | Stripe · Adyen · Cybersource · Marqeta |
+| **Fraud** | Riskified · Forter · checkout hardening |
+
+*Live in:* Revenued underwriting · KWH checkout · merchant portals
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Platform & observability
+| Layer | Production use |
+|:------|:---------------|
+| **Runtime** | Node.js · Python · GraphQL · REST |
+| **Cloud** | Azure (certified) · AWS · Vercel · Cloudflare |
+| **Ops** | Datadog APM/RUM · CI/CD · ~99.9% uptime targets |
+| **Enterprise** | AEM Edge · GTM · Segment · OneTrust |
+
+*Live in:* Viu OTT · Qinsights Qatar · national-scale dashboards
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-
-**Agentic AI**
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/MCP-3245FF?style=for-the-badge&logo=openai&logoColor=white" alt="MCP"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-
-<br/><br/>
-
-**Commerce · FinTech · Cloud**
-
-<img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/commercetools-FFC107?style=for-the-badge&logoColor=black" alt="commercetools"/>
-<img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-<img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
-<img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,graphql,tailwind,docker,azure,aws,vercel,linux,git,githubactions&perline=7&theme=dark" alt="Core technologies"/>
 </p>
 
 <details>
-<summary><b>🔌 40+ integrations shipped in production</b></summary>
+<summary><b>Full integration map — 40+ vendors in production</b></summary>
 
 <br/>
 
-| Domain | Tools |
-|--------|-------|
+| Domain | Shipped with |
+|--------|--------------|
 | **Payments & fraud** | Riskified · Forter · Cybersource · Adyen · Unzer · Stripe · Marqeta |
 | **Commerce** | commercetools · Shopify · Frontastic · Algolia · Coveo |
-| **FinTech** | Plaid · Auth0 · Kinde · HubSpot · embedded finance APIs |
+| **FinTech** | Plaid · Auth0 · Kinde · HubSpot · embedded financing APIs |
 | **Social / AI** | WhatsApp Business · Meta Cloud API · LangGraph · MCP |
 | **Enterprise** | Adobe AEM Edge · GTM · Segment · OneTrust |
 
@@ -243,19 +277,40 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ---
 
-## 📊 GitHub activity
+## 📊 GitHub pulse
 
-<div align="center">
+*Code is the résumé. Private client work counts — stats include all commits.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-rachabathuni&show_icons=true&theme=radical&hide_border=false&border_color=8952ee&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=8952ee" height="180" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-rachabathuni&theme=radical&hide_border=false&border=8952ee&background=0D1117&ring=8952ee&fire=3245ff&currStreakLabel=8952ee" height="180" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-rachabathuni&layout=compact&theme=radical&hide_border=false&border_color=8952ee&bg_color=0d1117&title_color=8952ee&text_color=c9d1d9&langs_count=8&hide=html,css" height="180" alt="Top languages"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-rachabathuni&bg_color=0d1117&color=8952ee&line=3245ff&point=FFFFFF&area=true&hide_border=false&border_color=8952ee&custom_title=Contribution%20rhythm&height=280&theme=react" alt="Contribution graph"/>
+</p>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitin-rachabathuni&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="GitHub trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nitin-rachabathuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=issues&rank_icon=percentile" height="170" alt="GitHub stats"/>
 
-</div>
+<br/>
+<sub>All commits · public + private · percentile rank</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-rachabathuni&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&text_color=c9d1d9&icon_color=3245ff&langs_count=6&hide=html,css,scss&custom_title=Language%20mix" height="170" alt="Top languages"/>
+
+<br/>
+<sub>TypeScript · JavaScript · Python — client + OSS mix</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-rachabathuni&theme=tokyonight&hide_border=true&background=0D1117&ring=8952ee&fire=3245ff&currStreakLabel=8952ee&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak"/>
+</p>
+
+<p align="center"><sub>Active across enterprise forks · Adobe EXL · Storybook · Cap · Archestra · tscircuit</sub></p>
 
 ---
 
@@ -273,16 +328,104 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ---
 
-## 🏆 Featured repos
+## 🏆 Signature repositories
 
-<div align="center">
+*Curated — each repo tells a story, not just a dependency list.*
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=property-design-cad&theme=radical&hide_border=false&border_color=8952ee&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/property-design-cad)
-[![exlm](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=exlm&theme=radical&hide_border=false&border_color=8952ee&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/exlm)
-[![AiAgentRunJS](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=AiAgentRunJS&theme=radical&hide_border=false&border_color=8952ee&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/AiAgentRunJS)
-[![n8n-workflows](https://github-readme-stats.vercel.app/api/pin/?username=nitin-rachabathuni&repo=n8n-workflows&theme=radical&hide_border=false&border_color=8952ee&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9)](https://github.com/nitin-rachabathuni/n8n-workflows)
+<table>
+<tr>
+<th align="left">Repository</th>
+<th align="left">What it proves</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td valign="top">
 
-</div>
+**[`property-design-cad`](https://github.com/nitin-rachabathuni/property-design-cad)**  
+<sub>Open source · active</sub>
+
+</td>
+<td valign="top">
+
+Parametric Vastu floor plans, 3D dollhouse viewer, Blender pipeline — CAD-adjacent OSS most engineers never touch.
+
+</td>
+<td valign="top">
+
+Python · TypeScript · Blender
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[`AiAgentRunJS`](https://github.com/nitin-rachabathuni/AiAgentRunJS)**  
+<sub>Agent runtime</sub>
+
+</td>
+<td valign="top">
+
+LangGraph.js agents that execute JavaScript safely — tool use, eval loops, production-minded guardrails.
+
+</td>
+<td valign="top">
+
+LangGraph · Node.js · TypeScript
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[`n8n-workflows`](https://github.com/nitin-rachabathuni/n8n-workflows)**  
+<sub>Automation</sub>
+
+</td>
+<td valign="top">
+
+Blog auto-publish, job-hunt pipelines, client PoCs — how I wire agents to real business ops.
+
+</td>
+<td valign="top">
+
+n8n · Ollama · OpenAI · Groq
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[`exlm`](https://github.com/nitin-rachabathuni/exlm)** → [upstream](https://github.com/adobe-experience-league/exlm)  
+<sub>Enterprise OSS · 15+ PRs</sub>
+
+</td>
+<td valign="top">
+
+Adobe Experience League Edge Delivery — Coveo, AEM, analytics at Adobe scale. PRs merge upstream.
+
+</td>
+<td valign="top">
+
+JavaScript · Coveo · AEM Edge
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More repos worth a look</b></summary>
+
+<br/>
+
+| Repo | One line |
+|------|----------|
+| [`portfolio`](https://github.com/nitin-rachabathuni/portfolio) | Next.js site · Contentful · AEO/GEO · llms.txt |
+| [`linear-agent-starter`](https://github.com/nitin-rachabathuni/linear-agent-starter) | Agent starter for Linear-integrated workflows |
+| [`storybook`](https://github.com/storybookjs/storybook) | Upstream contributor — component workshop at scale |
+| [`Cap`](https://github.com/CapSoftware/Cap) | Upstream contributor — open-source Loom alternative |
+| [`archestra`](https://github.com/archestra-ai/archestra) | Upstream contributor — enterprise MCP registry |
+
+</details>
 
 ---
 
