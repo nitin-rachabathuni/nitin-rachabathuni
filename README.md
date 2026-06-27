@@ -84,16 +84,16 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 </td>
 <td valign="top">WhatsApp order agents · document automation · **1,600+** Cursor skills · n8n ops pipelines</td>
 <td valign="top">
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="18" alt="LangChain"/> <img src="https://cdn.simpleicons.org/openai/412991" height="18" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="18" alt="n8n"/> <img src="https://cdn.simpleicons.org/groq/F55036" height="18" alt="Groq"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="18" alt="LangChain"/> <img src="https://cdn.simpleicons.org/openai/412991" height="18" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="18" alt="n8n"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="18" alt="Groq"/>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="https://cdn.simpleicons.org/commercetools/FFC107" height="22" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="22" alt="Algolia"/><br/><b>Headless commerce</b>
+<img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="22" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="22" alt="Algolia"/><br/><b>Headless commerce</b>
 </td>
 <td valign="top"><b>10,000+</b> SKUs · multi-gateway checkout · ~<b>99.9%</b> uptime · END. · KWH · GENIUS</td>
 <td valign="top">
-<img src="https://cdn.simpleicons.org/commercetools/FFC107" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="18" alt="Algolia"/> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="18" alt="Stripe"/>
+<img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="18" alt="Algolia"/> <img src="https://cdn.simpleicons.org/stripe/635BFF" height="18" alt="Stripe"/>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 *Problem → approach → measurable outcome. Full write-ups on the [portfolio](https://www.nitin-rachabathuni.com).*
 
 <details open>
-<summary><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="18" alt="WhatsApp"/> <img src="https://cdn.simpleicons.org/commercetools/FFC107" height="18" alt="commercetools"/> <b>Rich Cookies — conversational commerce without leaving WhatsApp</b></summary>
+<summary><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="18" alt="WhatsApp"/> <img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="18" alt="commercetools"/> <b>Rich Cookies — conversational commerce without leaving WhatsApp</b></summary>
 <br/>
 
 | | |
@@ -138,7 +138,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | Commerce | commercetools B2B + B2C · multi-tenant |
 | Agents | LangGraph.js · LangChain · MCP tool routing |
 
-**Stack:** <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="16" alt="LangChain"/> <img src="https://cdn.simpleicons.org/commercetools/FFC107" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="16" alt="WhatsApp"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="16" alt="Node.js"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="16" alt="n8n"/> <img src="https://cdn.simpleicons.org/datadog/632CA6" height="16" alt="Datadog"/> [**case study →**](https://www.nitin-rachabathuni.com/project/richcookies)
+**Stack:** <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="16" alt="LangChain"/> <img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="16" alt="WhatsApp"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="16" alt="Node.js"/> <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="16" alt="n8n"/> <img src="https://cdn.simpleicons.org/datadog/632CA6" height="16" alt="Datadog"/> [**case study →**](https://www.nitin-rachabathuni.com/project/richcookies)
 
 </details>
 
@@ -163,7 +163,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 </details>
 
 <details>
-<summary><img src="https://cdn.simpleicons.org/commercetools/FFC107" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="18" alt="Algolia"/> <b>Kitchen Warehouse — 10,000+ SKUs, fraud-aware checkout at scale</b></summary>
+<summary><img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="18" alt="Algolia"/> <b>Kitchen Warehouse — 10,000+ SKUs, fraud-aware checkout at scale</b></summary>
 <br/>
 
 | | |
@@ -177,12 +177,12 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | Catalog | **10,000+ SKUs** · complex Algolia rules |
 | Identity | **Kinde** OAuth → commercetools customer bridge |
 
-**Stack:** <img src="https://cdn.simpleicons.org/commercetools/FFC107" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="16" alt="Algolia"/> [**case study →**](https://www.nitin-rachabathuni.com/project/kwh)
+**Stack:** <img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="16" alt="Algolia"/> [**case study →**](https://www.nitin-rachabathuni.com/project/kwh)
 
 </details>
 
 <details>
-<summary><img src="https://cdn.simpleicons.org/commercetools/FFC107" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="18" alt="Next.js"/> <b>END. Clothing — premium streetwear, headless under peak drop traffic</b></summary>
+<summary><img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="18" alt="commercetools"/> <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="18" alt="Next.js"/> <b>END. Clothing — premium streetwear, headless under peak drop traffic</b></summary>
 <br/>
 
 | | |
@@ -191,7 +191,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 | **Approach** | Headless storefront · performant PDP/PLP · commerce integrations tuned for spikes |
 | **Outcome** | Premium UX that holds up when hype drops hit |
 
-**Stack:** <img src="https://cdn.simpleicons.org/commercetools/FFC107" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="16" alt="Next.js"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="16" alt="Algolia"/> [**portfolio →**](https://www.nitin-rachabathuni.com)
+**Stack:** <img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="16" alt="commercetools"/> <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="16" alt="Next.js"/> <img src="https://cdn.simpleicons.org/algolia/003DFC" height="16" alt="Algolia"/> [**portfolio →**](https://www.nitin-rachabathuni.com)
 
 </details>
 
@@ -296,9 +296,9 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="28" alt="LangChain"/>
 <img src="https://cdn.simpleicons.org/openai/412991" height="28" alt="OpenAI"/>
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="28" alt="n8n"/>
-<img src="https://cdn.simpleicons.org/groq/F55036" height="28" alt="Groq"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28" alt="Groq"/>
 <img src="https://cdn.simpleicons.org/ollama/000000" height="28" alt="Ollama"/>
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" height="28" alt="Playwright"/>
+<img src="https://img.shields.io/badge/PW-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28" alt="Playwright"/>
 </p>
 
 | Layer | Production use |
@@ -319,7 +319,7 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React"/>
 <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="TypeScript"/>
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="Tailwind"/>
-<img src="https://cdn.simpleicons.org/commercetools/FFC107" height="28" alt="commercetools"/>
+<img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="28" alt="commercetools"/>
 <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="28" alt="Shopify"/>
 <img src="https://cdn.simpleicons.org/algolia/003DFC" height="28" alt="Algolia"/>
 <img src="https://cdn.simpleicons.org/contentful/2478CC" height="28" alt="Contentful"/>
@@ -479,7 +479,7 @@ Blog auto-publish · job-hunt pipelines · client PoCs — agents wired to real 
 </td>
 <td valign="top">
 
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="22" alt="n8n"/> <img src="https://cdn.simpleicons.org/ollama/000000" height="22" alt="Ollama"/> <img src="https://cdn.simpleicons.org/openai/412991" height="22" alt="OpenAI"/> <img src="https://cdn.simpleicons.org/groq/F55036" height="22" alt="Groq"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="22" alt="n8n"/> <img src="https://cdn.simpleicons.org/ollama/000000" height="22" alt="Ollama"/> <img src="https://cdn.simpleicons.org/openai/412991" height="22" alt="OpenAI"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="22" alt="Groq"/>
 
 </td>
 </tr>
@@ -568,7 +568,7 @@ Skills · rules · MCP orchestration repo — how I scale agent-assisted deliver
 | Topic lanes | Where to start |
 |:------------|:---------------|
 | **Agentic AI** | <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="16" alt="LangChain"/> LangGraph · MCP · eval loops · Cursor skills at scale |
-| **Commerce** | <img src="https://cdn.simpleicons.org/commercetools/FFC107" height="16" alt="commercetools"/> Headless · Algolia · fraud · CWV · JSON-LD / AEO |
+| **Commerce** | <img src="https://img.shields.io/badge/CT-FFC107?style=flat-square&logo=commercetools&logoColor=black" height="16" alt="commercetools"/> Headless · Algolia · fraud · CWV · JSON-LD / AEO |
 | **FinTech** | <img src="https://cdn.simpleicons.org/plaid/000000" height="16" alt="Plaid"/> Plaid · Auth0 · embedded finance · webhook patterns |
 
 <p align="center">
