@@ -279,38 +279,80 @@ I build at the intersection of **commerce, FinTech, and agentic AI** — WhatsAp
 
 ## 📊 GitHub pulse
 
-*Code is the résumé. Private client work counts — stats include all commits.*
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&section=header&text=GitHub%20Pulse&fontSize=26&fontColor=ffffff&color=gradient&customColorList=0,3245ff,8952ee,7c3aed&desc=Public%20%2B%20private%20commits%20%C2%B7%20Asia%2FKolkata%20timezone&descSize=12&descAlign=62" width="100%" alt="GitHub Pulse"/>
+
+*The graph is only half the story — private client repos, enterprise forks, and upstream PRs all count.*
+
+<br/>
+
+### 🌆 Contribution skyline · rolling 365 days
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-rachabathuni&bg_color=0d1117&color=8952ee&line=3245ff&point=FFFFFF&area=true&hide_border=false&border_color=8952ee&custom_title=Contribution%20rhythm&height=280&theme=react" alt="Contribution graph"/>
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=nitin-rachabathuni&theme=neon&stats=true&credit=true&width=1200&height=560" width="100%" alt="3D isometric contribution skyline"/>
 </p>
+
+<sub align="center">Isometric city · height = daily commit intensity · streak & totals baked in</sub>
+
+<br/>
+
+### 📈 Commit velocity · last 12 months
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-rachabathuni&bg_color=0d1117&color=8952ee&line=3245ff&point=FFFFFF&area=true&area_color=3245ff&area_opacity=0.18&hide_border=true&custom_title=Commit%20velocity&height=300&theme=react" width="100%" alt="Commit velocity graph"/>
+</p>
+
+<br/>
+
+### 🧬 Activity intelligence
+
+*Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics) — isometric calendar, coding habits, streaks, skyline & notable contributions.*
+
+<p align="center">
+<img src="https://metrics.lecoq.io/nitin-rachabathuni?plugin.isocalendar=1&plugin.isocalendar.duration=half-year&plugin.habits=1&plugin.habits.charts=1&plugin.habits.days=14&plugin.streak=1&plugin.skyline=1&plugin.skyline.year=current&plugin.activity=1&plugin.activity.limit=5&plugin.notable=1&plugin.notable.limit=4&plugin.languages=1&plugin.languages.sections=most-used&plugin.languages.limit=6&config.timezone=Asia%2FKolkata&config.display=large" width="100%" alt="GitHub metrics digest"/>
+</p>
+
+<br/>
+
+### 📋 Developer dashboard
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-rachabathuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&icon_color=3245ff&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=issues&rank_icon=percentile" height="170" alt="GitHub stats"/>
-
-<br/>
-<sub>All commits · public + private · percentile rank</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin-rachabathuni&theme=dracula" width="100%" alt="Profile details"/>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-rachabathuni&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8952ee&text_color=c9d1d9&icon_color=3245ff&langs_count=6&hide=html,css,scss&custom_title=Language%20mix" height="170" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin-rachabathuni&theme=dracula" width="100%" alt="GitHub stats"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitin-rachabathuni&theme=dracula&utcOffset=5.5" width="100%" alt="Productive time IST"/>
 
 <br/>
-<sub>TypeScript · JavaScript · Python — client + OSS mix</sub>
+<sub>Peak hours · Asia/Kolkata</sub>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitin-rachabathuni&theme=dracula" width="100%" alt="Repos per language"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-rachabathuni&theme=tokyonight&hide_border=true&background=0D1117&ring=8952ee&fire=3245ff&currStreakLabel=8952ee&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitin-rachabathuni&theme=dracula" width="100%" alt="Most committed languages"/>
 </p>
 
-<p align="center"><sub>Active across enterprise forks · Adobe EXL · Storybook · Cap · Archestra · tscircuit</sub></p>
+<p align="center"><sub>Upstream footprints · Adobe EXL · Storybook · Cap · Archestra · tscircuit · 15+ merged PRs</sub></p>
+
+<!-- Auto-generated nightly by .github/workflows/metrics.yml — add METRICS_TOKEN repo secret to enable -->
+<!-- ![Metrics digest](./github-metrics.svg) -->
 
 ---
 
